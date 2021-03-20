@@ -1,0 +1,8 @@
+git+https://github.com/torproject/stem.git
+selenium==3.141.0
+fastapi==0.63.0
+uvicorn[standard]==0.13.4
+rq==1.1.0
+requests==2.22.0
+redis==3.2.1
+pydantic==1.6.1
