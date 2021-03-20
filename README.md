@@ -1,15 +1,26 @@
-#Hit my Medium Story with robots!
- If you want to quickly go to the homepage, you can use it. This repo to increase the number of views of the article you wrote in medium.
+# Hit my Medium Story with Robots!
+ If you want to quickly go to the Medium Homepage, you can use it. This repo to increase the number of views of the article you wrote in medium.
+    
+![alt text](
+https://sametozsuleyman.com.tr/wp-content/uploads/2019/07/robots-txt-nedir.jpg    )
+
+
 
 # Chrome Driver
 If you get chromedriver error you need to check your chrome browser on the settings and download chromedriver.
+
+![alt text](
+https://hwp.com.tr/wp-content/uploads/2020/12/Chrome.png)
+
 
 # Redis 
 If you want to run this repo you need to have redis. 
  - Ways: 
     - Create account on https://app.redislabs.com/ and change settings REDIS_URL
     - Add redis files on the docker-compose
-
+   
+![alt text](
+https://miro.medium.com/max/4800/1*6cumvzXHECQvYqgFwV6Exg.png      )
 
 ## Install 
  - pip install -r requirements.txt 
